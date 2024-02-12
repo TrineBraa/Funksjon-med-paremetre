@@ -1,0 +1,14 @@
+#changingDiv {
+    background-color: aqua;
+    height: 100px;
+    width: 400px;
+}
+
+#buttonLook {
+    border: solid blueviolet 3px;
+    border-radius: 50%;
+    width: 80px;
+    height: 50px;
+    background-color: cadetblue;
+    
+}
